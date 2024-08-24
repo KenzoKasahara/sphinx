@@ -1,0 +1,10 @@
+[
+    {
+        "title": "ec2",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/index.html"
+    },
+    {
+        "title": "ec2-instance-connect",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2-instance-connect/index.html"
+    }
+]

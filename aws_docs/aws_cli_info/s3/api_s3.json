@@ -1,0 +1,38 @@
+[
+    {
+        "title": "cp",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/cp.html"
+    },
+    {
+        "title": "ls",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/ls.html"
+    },
+    {
+        "title": "mb",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/mb.html"
+    },
+    {
+        "title": "mv",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/mv.html"
+    },
+    {
+        "title": "presign",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/presign.html"
+    },
+    {
+        "title": "rb",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/rb.html"
+    },
+    {
+        "title": "rm",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/rm.html"
+    },
+    {
+        "title": "sync",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/sync.html"
+    },
+    {
+        "title": "website",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/website.html"
+    }
+]

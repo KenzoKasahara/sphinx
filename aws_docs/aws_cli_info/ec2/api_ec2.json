@@ -1,0 +1,2506 @@
+[
+    {
+        "title": "accept-address-transfer",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-address-transfer.html"
+    },
+    {
+        "title": "accept-reserved-instances-exchange-quote",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-reserved-instances-exchange-quote.html"
+    },
+    {
+        "title": "accept-transit-gateway-multicast-domain-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-transit-gateway-multicast-domain-associations.html"
+    },
+    {
+        "title": "accept-transit-gateway-peering-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-transit-gateway-peering-attachment.html"
+    },
+    {
+        "title": "accept-transit-gateway-vpc-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-transit-gateway-vpc-attachment.html"
+    },
+    {
+        "title": "accept-vpc-endpoint-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-vpc-endpoint-connections.html"
+    },
+    {
+        "title": "accept-vpc-peering-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/accept-vpc-peering-connection.html"
+    },
+    {
+        "title": "advertise-byoip-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/advertise-byoip-cidr.html"
+    },
+    {
+        "title": "allocate-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/allocate-address.html"
+    },
+    {
+        "title": "allocate-hosts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/allocate-hosts.html"
+    },
+    {
+        "title": "allocate-ipam-pool-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/allocate-ipam-pool-cidr.html"
+    },
+    {
+        "title": "apply-security-groups-to-client-vpn-target-network",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/apply-security-groups-to-client-vpn-target-network.html"
+    },
+    {
+        "title": "assign-ipv6-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/assign-ipv6-addresses.html"
+    },
+    {
+        "title": "assign-private-ip-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/assign-private-ip-addresses.html"
+    },
+    {
+        "title": "assign-private-nat-gateway-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/assign-private-nat-gateway-address.html"
+    },
+    {
+        "title": "associate-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-address.html"
+    },
+    {
+        "title": "associate-client-vpn-target-network",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-client-vpn-target-network.html"
+    },
+    {
+        "title": "associate-dhcp-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-dhcp-options.html"
+    },
+    {
+        "title": "associate-enclave-certificate-iam-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-enclave-certificate-iam-role.html"
+    },
+    {
+        "title": "associate-iam-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-iam-instance-profile.html"
+    },
+    {
+        "title": "associate-instance-event-window",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-instance-event-window.html"
+    },
+    {
+        "title": "associate-ipam-byoasn",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-ipam-byoasn.html"
+    },
+    {
+        "title": "associate-ipam-resource-discovery",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-ipam-resource-discovery.html"
+    },
+    {
+        "title": "associate-nat-gateway-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-nat-gateway-address.html"
+    },
+    {
+        "title": "associate-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-route-table.html"
+    },
+    {
+        "title": "associate-subnet-cidr-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-subnet-cidr-block.html"
+    },
+    {
+        "title": "associate-transit-gateway-multicast-domain",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-transit-gateway-multicast-domain.html"
+    },
+    {
+        "title": "associate-transit-gateway-policy-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-transit-gateway-policy-table.html"
+    },
+    {
+        "title": "associate-transit-gateway-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-transit-gateway-route-table.html"
+    },
+    {
+        "title": "associate-trunk-interface",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-trunk-interface.html"
+    },
+    {
+        "title": "associate-vpc-cidr-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/associate-vpc-cidr-block.html"
+    },
+    {
+        "title": "attach-classic-link-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/attach-classic-link-vpc.html"
+    },
+    {
+        "title": "attach-internet-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/attach-internet-gateway.html"
+    },
+    {
+        "title": "attach-network-interface",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/attach-network-interface.html"
+    },
+    {
+        "title": "attach-verified-access-trust-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/attach-verified-access-trust-provider.html"
+    },
+    {
+        "title": "attach-volume",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/attach-volume.html"
+    },
+    {
+        "title": "attach-vpn-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/attach-vpn-gateway.html"
+    },
+    {
+        "title": "authorize-client-vpn-ingress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/authorize-client-vpn-ingress.html"
+    },
+    {
+        "title": "authorize-security-group-egress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/authorize-security-group-egress.html"
+    },
+    {
+        "title": "authorize-security-group-ingress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/authorize-security-group-ingress.html"
+    },
+    {
+        "title": "bundle-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/bundle-instance.html"
+    },
+    {
+        "title": "cancel-bundle-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-bundle-task.html"
+    },
+    {
+        "title": "cancel-capacity-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-capacity-reservation.html"
+    },
+    {
+        "title": "cancel-capacity-reservation-fleets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-capacity-reservation-fleets.html"
+    },
+    {
+        "title": "cancel-conversion-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-conversion-task.html"
+    },
+    {
+        "title": "cancel-export-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-export-task.html"
+    },
+    {
+        "title": "cancel-image-launch-permission",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-image-launch-permission.html"
+    },
+    {
+        "title": "cancel-import-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-import-task.html"
+    },
+    {
+        "title": "cancel-reserved-instances-listing",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-reserved-instances-listing.html"
+    },
+    {
+        "title": "cancel-spot-fleet-requests",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-spot-fleet-requests.html"
+    },
+    {
+        "title": "cancel-spot-instance-requests",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/cancel-spot-instance-requests.html"
+    },
+    {
+        "title": "confirm-product-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/confirm-product-instance.html"
+    },
+    {
+        "title": "copy-fpga-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/copy-fpga-image.html"
+    },
+    {
+        "title": "copy-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/copy-image.html"
+    },
+    {
+        "title": "copy-snapshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/copy-snapshot.html"
+    },
+    {
+        "title": "create-capacity-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-capacity-reservation.html"
+    },
+    {
+        "title": "create-capacity-reservation-by-splitting",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-capacity-reservation-by-splitting.html"
+    },
+    {
+        "title": "create-capacity-reservation-fleet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-capacity-reservation-fleet.html"
+    },
+    {
+        "title": "create-carrier-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-carrier-gateway.html"
+    },
+    {
+        "title": "create-client-vpn-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-client-vpn-endpoint.html"
+    },
+    {
+        "title": "create-client-vpn-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-client-vpn-route.html"
+    },
+    {
+        "title": "create-coip-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-coip-cidr.html"
+    },
+    {
+        "title": "create-coip-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-coip-pool.html"
+    },
+    {
+        "title": "create-customer-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-customer-gateway.html"
+    },
+    {
+        "title": "create-default-subnet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-default-subnet.html"
+    },
+    {
+        "title": "create-default-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-default-vpc.html"
+    },
+    {
+        "title": "create-dhcp-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-dhcp-options.html"
+    },
+    {
+        "title": "create-egress-only-internet-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-egress-only-internet-gateway.html"
+    },
+    {
+        "title": "create-fleet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-fleet.html"
+    },
+    {
+        "title": "create-flow-logs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-flow-logs.html"
+    },
+    {
+        "title": "create-fpga-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-fpga-image.html"
+    },
+    {
+        "title": "create-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-image.html"
+    },
+    {
+        "title": "create-instance-connect-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-instance-connect-endpoint.html"
+    },
+    {
+        "title": "create-instance-event-window",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-instance-event-window.html"
+    },
+    {
+        "title": "create-instance-export-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-instance-export-task.html"
+    },
+    {
+        "title": "create-internet-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-internet-gateway.html"
+    },
+    {
+        "title": "create-ipam",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-ipam.html"
+    },
+    {
+        "title": "create-ipam-external-resource-verification-token",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-ipam-external-resource-verification-token.html"
+    },
+    {
+        "title": "create-ipam-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-ipam-pool.html"
+    },
+    {
+        "title": "create-ipam-resource-discovery",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-ipam-resource-discovery.html"
+    },
+    {
+        "title": "create-ipam-scope",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-ipam-scope.html"
+    },
+    {
+        "title": "create-key-pair",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-key-pair.html"
+    },
+    {
+        "title": "create-launch-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-launch-template.html"
+    },
+    {
+        "title": "create-launch-template-version",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-launch-template-version.html"
+    },
+    {
+        "title": "create-local-gateway-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-local-gateway-route.html"
+    },
+    {
+        "title": "create-local-gateway-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-local-gateway-route-table.html"
+    },
+    {
+        "title": "create-local-gateway-route-table-virtual-interface-group-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-local-gateway-route-table-virtual-interface-group-association.html"
+    },
+    {
+        "title": "create-local-gateway-route-table-vpc-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-local-gateway-route-table-vpc-association.html"
+    },
+    {
+        "title": "create-managed-prefix-list",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-managed-prefix-list.html"
+    },
+    {
+        "title": "create-nat-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-nat-gateway.html"
+    },
+    {
+        "title": "create-network-acl",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-network-acl.html"
+    },
+    {
+        "title": "create-network-acl-entry",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-network-acl-entry.html"
+    },
+    {
+        "title": "create-network-insights-access-scope",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-network-insights-access-scope.html"
+    },
+    {
+        "title": "create-network-insights-path",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-network-insights-path.html"
+    },
+    {
+        "title": "create-network-interface",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-network-interface.html"
+    },
+    {
+        "title": "create-network-interface-permission",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-network-interface-permission.html"
+    },
+    {
+        "title": "create-placement-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-placement-group.html"
+    },
+    {
+        "title": "create-public-ipv4-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-public-ipv4-pool.html"
+    },
+    {
+        "title": "create-replace-root-volume-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-replace-root-volume-task.html"
+    },
+    {
+        "title": "create-reserved-instances-listing",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-reserved-instances-listing.html"
+    },
+    {
+        "title": "create-restore-image-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-restore-image-task.html"
+    },
+    {
+        "title": "create-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-route.html"
+    },
+    {
+        "title": "create-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-route-table.html"
+    },
+    {
+        "title": "create-security-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-security-group.html"
+    },
+    {
+        "title": "create-snapshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-snapshot.html"
+    },
+    {
+        "title": "create-snapshots",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-snapshots.html"
+    },
+    {
+        "title": "create-spot-datafeed-subscription",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-spot-datafeed-subscription.html"
+    },
+    {
+        "title": "create-store-image-task",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-store-image-task.html"
+    },
+    {
+        "title": "create-subnet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-subnet.html"
+    },
+    {
+        "title": "create-subnet-cidr-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-subnet-cidr-reservation.html"
+    },
+    {
+        "title": "create-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-tags.html"
+    },
+    {
+        "title": "create-traffic-mirror-filter",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-traffic-mirror-filter.html"
+    },
+    {
+        "title": "create-traffic-mirror-filter-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-traffic-mirror-filter-rule.html"
+    },
+    {
+        "title": "create-traffic-mirror-session",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-traffic-mirror-session.html"
+    },
+    {
+        "title": "create-traffic-mirror-target",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-traffic-mirror-target.html"
+    },
+    {
+        "title": "create-transit-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway.html"
+    },
+    {
+        "title": "create-transit-gateway-connect",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-connect.html"
+    },
+    {
+        "title": "create-transit-gateway-connect-peer",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-connect-peer.html"
+    },
+    {
+        "title": "create-transit-gateway-multicast-domain",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-multicast-domain.html"
+    },
+    {
+        "title": "create-transit-gateway-peering-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-peering-attachment.html"
+    },
+    {
+        "title": "create-transit-gateway-policy-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-policy-table.html"
+    },
+    {
+        "title": "create-transit-gateway-prefix-list-reference",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-prefix-list-reference.html"
+    },
+    {
+        "title": "create-transit-gateway-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-route.html"
+    },
+    {
+        "title": "create-transit-gateway-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-route-table.html"
+    },
+    {
+        "title": "create-transit-gateway-route-table-announcement",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-route-table-announcement.html"
+    },
+    {
+        "title": "create-transit-gateway-vpc-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-transit-gateway-vpc-attachment.html"
+    },
+    {
+        "title": "create-verified-access-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-verified-access-endpoint.html"
+    },
+    {
+        "title": "create-verified-access-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-verified-access-group.html"
+    },
+    {
+        "title": "create-verified-access-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-verified-access-instance.html"
+    },
+    {
+        "title": "create-verified-access-trust-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-verified-access-trust-provider.html"
+    },
+    {
+        "title": "create-volume",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-volume.html"
+    },
+    {
+        "title": "create-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpc.html"
+    },
+    {
+        "title": "create-vpc-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpc-endpoint.html"
+    },
+    {
+        "title": "create-vpc-endpoint-connection-notification",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpc-endpoint-connection-notification.html"
+    },
+    {
+        "title": "create-vpc-endpoint-service-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpc-endpoint-service-configuration.html"
+    },
+    {
+        "title": "create-vpc-peering-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpc-peering-connection.html"
+    },
+    {
+        "title": "create-vpn-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpn-connection.html"
+    },
+    {
+        "title": "create-vpn-connection-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpn-connection-route.html"
+    },
+    {
+        "title": "create-vpn-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/create-vpn-gateway.html"
+    },
+    {
+        "title": "delete-carrier-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-carrier-gateway.html"
+    },
+    {
+        "title": "delete-client-vpn-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-client-vpn-endpoint.html"
+    },
+    {
+        "title": "delete-client-vpn-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-client-vpn-route.html"
+    },
+    {
+        "title": "delete-coip-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-coip-cidr.html"
+    },
+    {
+        "title": "delete-coip-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-coip-pool.html"
+    },
+    {
+        "title": "delete-customer-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-customer-gateway.html"
+    },
+    {
+        "title": "delete-dhcp-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-dhcp-options.html"
+    },
+    {
+        "title": "delete-egress-only-internet-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-egress-only-internet-gateway.html"
+    },
+    {
+        "title": "delete-fleets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-fleets.html"
+    },
+    {
+        "title": "delete-flow-logs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-flow-logs.html"
+    },
+    {
+        "title": "delete-fpga-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-fpga-image.html"
+    },
+    {
+        "title": "delete-instance-connect-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-instance-connect-endpoint.html"
+    },
+    {
+        "title": "delete-instance-event-window",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-instance-event-window.html"
+    },
+    {
+        "title": "delete-internet-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-internet-gateway.html"
+    },
+    {
+        "title": "delete-ipam",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-ipam.html"
+    },
+    {
+        "title": "delete-ipam-external-resource-verification-token",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-ipam-external-resource-verification-token.html"
+    },
+    {
+        "title": "delete-ipam-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-ipam-pool.html"
+    },
+    {
+        "title": "delete-ipam-resource-discovery",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-ipam-resource-discovery.html"
+    },
+    {
+        "title": "delete-ipam-scope",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-ipam-scope.html"
+    },
+    {
+        "title": "delete-key-pair",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-key-pair.html"
+    },
+    {
+        "title": "delete-launch-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-launch-template.html"
+    },
+    {
+        "title": "delete-launch-template-versions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-launch-template-versions.html"
+    },
+    {
+        "title": "delete-local-gateway-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-local-gateway-route.html"
+    },
+    {
+        "title": "delete-local-gateway-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-local-gateway-route-table.html"
+    },
+    {
+        "title": "delete-local-gateway-route-table-virtual-interface-group-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-local-gateway-route-table-virtual-interface-group-association.html"
+    },
+    {
+        "title": "delete-local-gateway-route-table-vpc-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-local-gateway-route-table-vpc-association.html"
+    },
+    {
+        "title": "delete-managed-prefix-list",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-managed-prefix-list.html"
+    },
+    {
+        "title": "delete-nat-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-nat-gateway.html"
+    },
+    {
+        "title": "delete-network-acl",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-acl.html"
+    },
+    {
+        "title": "delete-network-acl-entry",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-acl-entry.html"
+    },
+    {
+        "title": "delete-network-insights-access-scope",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-insights-access-scope.html"
+    },
+    {
+        "title": "delete-network-insights-access-scope-analysis",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-insights-access-scope-analysis.html"
+    },
+    {
+        "title": "delete-network-insights-analysis",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-insights-analysis.html"
+    },
+    {
+        "title": "delete-network-insights-path",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-insights-path.html"
+    },
+    {
+        "title": "delete-network-interface",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-interface.html"
+    },
+    {
+        "title": "delete-network-interface-permission",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-network-interface-permission.html"
+    },
+    {
+        "title": "delete-placement-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-placement-group.html"
+    },
+    {
+        "title": "delete-public-ipv4-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-public-ipv4-pool.html"
+    },
+    {
+        "title": "delete-queued-reserved-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-queued-reserved-instances.html"
+    },
+    {
+        "title": "delete-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-route.html"
+    },
+    {
+        "title": "delete-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-route-table.html"
+    },
+    {
+        "title": "delete-security-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-security-group.html"
+    },
+    {
+        "title": "delete-snapshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-snapshot.html"
+    },
+    {
+        "title": "delete-spot-datafeed-subscription",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-spot-datafeed-subscription.html"
+    },
+    {
+        "title": "delete-subnet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-subnet.html"
+    },
+    {
+        "title": "delete-subnet-cidr-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-subnet-cidr-reservation.html"
+    },
+    {
+        "title": "delete-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-tags.html"
+    },
+    {
+        "title": "delete-traffic-mirror-filter",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-traffic-mirror-filter.html"
+    },
+    {
+        "title": "delete-traffic-mirror-filter-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-traffic-mirror-filter-rule.html"
+    },
+    {
+        "title": "delete-traffic-mirror-session",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-traffic-mirror-session.html"
+    },
+    {
+        "title": "delete-traffic-mirror-target",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-traffic-mirror-target.html"
+    },
+    {
+        "title": "delete-transit-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway.html"
+    },
+    {
+        "title": "delete-transit-gateway-connect",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-connect.html"
+    },
+    {
+        "title": "delete-transit-gateway-connect-peer",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-connect-peer.html"
+    },
+    {
+        "title": "delete-transit-gateway-multicast-domain",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-multicast-domain.html"
+    },
+    {
+        "title": "delete-transit-gateway-peering-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-peering-attachment.html"
+    },
+    {
+        "title": "delete-transit-gateway-policy-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-policy-table.html"
+    },
+    {
+        "title": "delete-transit-gateway-prefix-list-reference",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-prefix-list-reference.html"
+    },
+    {
+        "title": "delete-transit-gateway-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-route.html"
+    },
+    {
+        "title": "delete-transit-gateway-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-route-table.html"
+    },
+    {
+        "title": "delete-transit-gateway-route-table-announcement",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-route-table-announcement.html"
+    },
+    {
+        "title": "delete-transit-gateway-vpc-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-transit-gateway-vpc-attachment.html"
+    },
+    {
+        "title": "delete-verified-access-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-verified-access-endpoint.html"
+    },
+    {
+        "title": "delete-verified-access-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-verified-access-group.html"
+    },
+    {
+        "title": "delete-verified-access-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-verified-access-instance.html"
+    },
+    {
+        "title": "delete-verified-access-trust-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-verified-access-trust-provider.html"
+    },
+    {
+        "title": "delete-volume",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-volume.html"
+    },
+    {
+        "title": "delete-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpc.html"
+    },
+    {
+        "title": "delete-vpc-endpoint-connection-notifications",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpc-endpoint-connection-notifications.html"
+    },
+    {
+        "title": "delete-vpc-endpoint-service-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpc-endpoint-service-configurations.html"
+    },
+    {
+        "title": "delete-vpc-endpoints",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpc-endpoints.html"
+    },
+    {
+        "title": "delete-vpc-peering-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpc-peering-connection.html"
+    },
+    {
+        "title": "delete-vpn-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpn-connection.html"
+    },
+    {
+        "title": "delete-vpn-connection-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpn-connection-route.html"
+    },
+    {
+        "title": "delete-vpn-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/delete-vpn-gateway.html"
+    },
+    {
+        "title": "deprovision-byoip-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deprovision-byoip-cidr.html"
+    },
+    {
+        "title": "deprovision-ipam-byoasn",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deprovision-ipam-byoasn.html"
+    },
+    {
+        "title": "deprovision-ipam-pool-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deprovision-ipam-pool-cidr.html"
+    },
+    {
+        "title": "deprovision-public-ipv4-pool-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deprovision-public-ipv4-pool-cidr.html"
+    },
+    {
+        "title": "deregister-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deregister-image.html"
+    },
+    {
+        "title": "deregister-instance-event-notification-attributes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deregister-instance-event-notification-attributes.html"
+    },
+    {
+        "title": "deregister-transit-gateway-multicast-group-members",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deregister-transit-gateway-multicast-group-members.html"
+    },
+    {
+        "title": "deregister-transit-gateway-multicast-group-sources",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/deregister-transit-gateway-multicast-group-sources.html"
+    },
+    {
+        "title": "describe-account-attributes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-account-attributes.html"
+    },
+    {
+        "title": "describe-address-transfers",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-address-transfers.html"
+    },
+    {
+        "title": "describe-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-addresses.html"
+    },
+    {
+        "title": "describe-addresses-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-addresses-attribute.html"
+    },
+    {
+        "title": "describe-aggregate-id-format",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-aggregate-id-format.html"
+    },
+    {
+        "title": "describe-availability-zones",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-availability-zones.html"
+    },
+    {
+        "title": "describe-aws-network-performance-metric-subscriptions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-aws-network-performance-metric-subscriptions.html"
+    },
+    {
+        "title": "describe-bundle-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-bundle-tasks.html"
+    },
+    {
+        "title": "describe-byoip-cidrs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-byoip-cidrs.html"
+    },
+    {
+        "title": "describe-capacity-block-offerings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-capacity-block-offerings.html"
+    },
+    {
+        "title": "describe-capacity-reservation-fleets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-capacity-reservation-fleets.html"
+    },
+    {
+        "title": "describe-capacity-reservations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-capacity-reservations.html"
+    },
+    {
+        "title": "describe-carrier-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-carrier-gateways.html"
+    },
+    {
+        "title": "describe-classic-link-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-classic-link-instances.html"
+    },
+    {
+        "title": "describe-client-vpn-authorization-rules",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-client-vpn-authorization-rules.html"
+    },
+    {
+        "title": "describe-client-vpn-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-client-vpn-connections.html"
+    },
+    {
+        "title": "describe-client-vpn-endpoints",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-client-vpn-endpoints.html"
+    },
+    {
+        "title": "describe-client-vpn-routes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-client-vpn-routes.html"
+    },
+    {
+        "title": "describe-client-vpn-target-networks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-client-vpn-target-networks.html"
+    },
+    {
+        "title": "describe-coip-pools",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-coip-pools.html"
+    },
+    {
+        "title": "describe-conversion-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-conversion-tasks.html"
+    },
+    {
+        "title": "describe-customer-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-customer-gateways.html"
+    },
+    {
+        "title": "describe-dhcp-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-dhcp-options.html"
+    },
+    {
+        "title": "describe-egress-only-internet-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-egress-only-internet-gateways.html"
+    },
+    {
+        "title": "describe-elastic-gpus",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-elastic-gpus.html"
+    },
+    {
+        "title": "describe-export-image-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-export-image-tasks.html"
+    },
+    {
+        "title": "describe-export-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-export-tasks.html"
+    },
+    {
+        "title": "describe-fast-launch-images",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fast-launch-images.html"
+    },
+    {
+        "title": "describe-fast-snapshot-restores",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fast-snapshot-restores.html"
+    },
+    {
+        "title": "describe-fleet-history",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fleet-history.html"
+    },
+    {
+        "title": "describe-fleet-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fleet-instances.html"
+    },
+    {
+        "title": "describe-fleets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fleets.html"
+    },
+    {
+        "title": "describe-flow-logs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-flow-logs.html"
+    },
+    {
+        "title": "describe-fpga-image-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fpga-image-attribute.html"
+    },
+    {
+        "title": "describe-fpga-images",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-fpga-images.html"
+    },
+    {
+        "title": "describe-host-reservation-offerings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-host-reservation-offerings.html"
+    },
+    {
+        "title": "describe-host-reservations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-host-reservations.html"
+    },
+    {
+        "title": "describe-hosts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-hosts.html"
+    },
+    {
+        "title": "describe-iam-instance-profile-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-iam-instance-profile-associations.html"
+    },
+    {
+        "title": "describe-id-format",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-id-format.html"
+    },
+    {
+        "title": "describe-identity-id-format",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-identity-id-format.html"
+    },
+    {
+        "title": "describe-image-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-image-attribute.html"
+    },
+    {
+        "title": "describe-images",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-images.html"
+    },
+    {
+        "title": "describe-import-image-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-import-image-tasks.html"
+    },
+    {
+        "title": "describe-import-snapshot-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-import-snapshot-tasks.html"
+    },
+    {
+        "title": "describe-instance-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-attribute.html"
+    },
+    {
+        "title": "describe-instance-connect-endpoints",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-connect-endpoints.html"
+    },
+    {
+        "title": "describe-instance-credit-specifications",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-credit-specifications.html"
+    },
+    {
+        "title": "describe-instance-event-notification-attributes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-event-notification-attributes.html"
+    },
+    {
+        "title": "describe-instance-event-windows",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-event-windows.html"
+    },
+    {
+        "title": "describe-instance-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-status.html"
+    },
+    {
+        "title": "describe-instance-topology",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-topology.html"
+    },
+    {
+        "title": "describe-instance-type-offerings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-type-offerings.html"
+    },
+    {
+        "title": "describe-instance-types",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instance-types.html"
+    },
+    {
+        "title": "describe-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-instances.html"
+    },
+    {
+        "title": "describe-internet-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-internet-gateways.html"
+    },
+    {
+        "title": "describe-ipam-byoasn",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipam-byoasn.html"
+    },
+    {
+        "title": "describe-ipam-external-resource-verification-tokens",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipam-external-resource-verification-tokens.html"
+    },
+    {
+        "title": "describe-ipam-pools",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipam-pools.html"
+    },
+    {
+        "title": "describe-ipam-resource-discoveries",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipam-resource-discoveries.html"
+    },
+    {
+        "title": "describe-ipam-resource-discovery-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipam-resource-discovery-associations.html"
+    },
+    {
+        "title": "describe-ipam-scopes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipam-scopes.html"
+    },
+    {
+        "title": "describe-ipams",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipams.html"
+    },
+    {
+        "title": "describe-ipv6-pools",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-ipv6-pools.html"
+    },
+    {
+        "title": "describe-key-pairs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-key-pairs.html"
+    },
+    {
+        "title": "describe-launch-template-versions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-launch-template-versions.html"
+    },
+    {
+        "title": "describe-launch-templates",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-launch-templates.html"
+    },
+    {
+        "title": "describe-local-gateway-route-table-virtual-interface-group-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-local-gateway-route-table-virtual-interface-group-associations.html"
+    },
+    {
+        "title": "describe-local-gateway-route-table-vpc-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-local-gateway-route-table-vpc-associations.html"
+    },
+    {
+        "title": "describe-local-gateway-route-tables",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-local-gateway-route-tables.html"
+    },
+    {
+        "title": "describe-local-gateway-virtual-interface-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-local-gateway-virtual-interface-groups.html"
+    },
+    {
+        "title": "describe-local-gateway-virtual-interfaces",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-local-gateway-virtual-interfaces.html"
+    },
+    {
+        "title": "describe-local-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-local-gateways.html"
+    },
+    {
+        "title": "describe-locked-snapshots",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-locked-snapshots.html"
+    },
+    {
+        "title": "describe-mac-hosts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-mac-hosts.html"
+    },
+    {
+        "title": "describe-managed-prefix-lists",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-managed-prefix-lists.html"
+    },
+    {
+        "title": "describe-moving-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-moving-addresses.html"
+    },
+    {
+        "title": "describe-nat-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-nat-gateways.html"
+    },
+    {
+        "title": "describe-network-acls",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-acls.html"
+    },
+    {
+        "title": "describe-network-insights-access-scope-analyses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-insights-access-scope-analyses.html"
+    },
+    {
+        "title": "describe-network-insights-access-scopes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-insights-access-scopes.html"
+    },
+    {
+        "title": "describe-network-insights-analyses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-insights-analyses.html"
+    },
+    {
+        "title": "describe-network-insights-paths",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-insights-paths.html"
+    },
+    {
+        "title": "describe-network-interface-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-interface-attribute.html"
+    },
+    {
+        "title": "describe-network-interface-permissions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-interface-permissions.html"
+    },
+    {
+        "title": "describe-network-interfaces",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-network-interfaces.html"
+    },
+    {
+        "title": "describe-placement-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-placement-groups.html"
+    },
+    {
+        "title": "describe-prefix-lists",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-prefix-lists.html"
+    },
+    {
+        "title": "describe-principal-id-format",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-principal-id-format.html"
+    },
+    {
+        "title": "describe-public-ipv4-pools",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-public-ipv4-pools.html"
+    },
+    {
+        "title": "describe-regions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-regions.html"
+    },
+    {
+        "title": "describe-replace-root-volume-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-replace-root-volume-tasks.html"
+    },
+    {
+        "title": "describe-reserved-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-reserved-instances.html"
+    },
+    {
+        "title": "describe-reserved-instances-listings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-reserved-instances-listings.html"
+    },
+    {
+        "title": "describe-reserved-instances-modifications",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-reserved-instances-modifications.html"
+    },
+    {
+        "title": "describe-reserved-instances-offerings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-reserved-instances-offerings.html"
+    },
+    {
+        "title": "describe-route-tables",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-route-tables.html"
+    },
+    {
+        "title": "describe-scheduled-instance-availability",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-scheduled-instance-availability.html"
+    },
+    {
+        "title": "describe-scheduled-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-scheduled-instances.html"
+    },
+    {
+        "title": "describe-security-group-references",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-security-group-references.html"
+    },
+    {
+        "title": "describe-security-group-rules",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-security-group-rules.html"
+    },
+    {
+        "title": "describe-security-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-security-groups.html"
+    },
+    {
+        "title": "describe-snapshot-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-snapshot-attribute.html"
+    },
+    {
+        "title": "describe-snapshot-tier-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-snapshot-tier-status.html"
+    },
+    {
+        "title": "describe-snapshots",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-snapshots.html"
+    },
+    {
+        "title": "describe-spot-datafeed-subscription",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-spot-datafeed-subscription.html"
+    },
+    {
+        "title": "describe-spot-fleet-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-spot-fleet-instances.html"
+    },
+    {
+        "title": "describe-spot-fleet-request-history",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-spot-fleet-request-history.html"
+    },
+    {
+        "title": "describe-spot-fleet-requests",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-spot-fleet-requests.html"
+    },
+    {
+        "title": "describe-spot-instance-requests",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-spot-instance-requests.html"
+    },
+    {
+        "title": "describe-spot-price-history",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-spot-price-history.html"
+    },
+    {
+        "title": "describe-stale-security-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-stale-security-groups.html"
+    },
+    {
+        "title": "describe-store-image-tasks",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-store-image-tasks.html"
+    },
+    {
+        "title": "describe-subnets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-subnets.html"
+    },
+    {
+        "title": "describe-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-tags.html"
+    },
+    {
+        "title": "describe-traffic-mirror-filter-rules",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-traffic-mirror-filter-rules.html"
+    },
+    {
+        "title": "describe-traffic-mirror-filters",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-traffic-mirror-filters.html"
+    },
+    {
+        "title": "describe-traffic-mirror-sessions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-traffic-mirror-sessions.html"
+    },
+    {
+        "title": "describe-traffic-mirror-targets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-traffic-mirror-targets.html"
+    },
+    {
+        "title": "describe-transit-gateway-attachments",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-attachments.html"
+    },
+    {
+        "title": "describe-transit-gateway-connect-peers",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-connect-peers.html"
+    },
+    {
+        "title": "describe-transit-gateway-connects",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-connects.html"
+    },
+    {
+        "title": "describe-transit-gateway-multicast-domains",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-multicast-domains.html"
+    },
+    {
+        "title": "describe-transit-gateway-peering-attachments",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-peering-attachments.html"
+    },
+    {
+        "title": "describe-transit-gateway-policy-tables",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-policy-tables.html"
+    },
+    {
+        "title": "describe-transit-gateway-route-table-announcements",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-route-table-announcements.html"
+    },
+    {
+        "title": "describe-transit-gateway-route-tables",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-route-tables.html"
+    },
+    {
+        "title": "describe-transit-gateway-vpc-attachments",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateway-vpc-attachments.html"
+    },
+    {
+        "title": "describe-transit-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-transit-gateways.html"
+    },
+    {
+        "title": "describe-trunk-interface-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-trunk-interface-associations.html"
+    },
+    {
+        "title": "describe-verified-access-endpoints",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-verified-access-endpoints.html"
+    },
+    {
+        "title": "describe-verified-access-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-verified-access-groups.html"
+    },
+    {
+        "title": "describe-verified-access-instance-logging-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-verified-access-instance-logging-configurations.html"
+    },
+    {
+        "title": "describe-verified-access-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-verified-access-instances.html"
+    },
+    {
+        "title": "describe-verified-access-trust-providers",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-verified-access-trust-providers.html"
+    },
+    {
+        "title": "describe-volume-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-volume-attribute.html"
+    },
+    {
+        "title": "describe-volume-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-volume-status.html"
+    },
+    {
+        "title": "describe-volumes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-volumes.html"
+    },
+    {
+        "title": "describe-volumes-modifications",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-volumes-modifications.html"
+    },
+    {
+        "title": "describe-vpc-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-attribute.html"
+    },
+    {
+        "title": "describe-vpc-classic-link",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-classic-link.html"
+    },
+    {
+        "title": "describe-vpc-classic-link-dns-support",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-classic-link-dns-support.html"
+    },
+    {
+        "title": "describe-vpc-endpoint-connection-notifications",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-endpoint-connection-notifications.html"
+    },
+    {
+        "title": "describe-vpc-endpoint-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-endpoint-connections.html"
+    },
+    {
+        "title": "describe-vpc-endpoint-service-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-endpoint-service-configurations.html"
+    },
+    {
+        "title": "describe-vpc-endpoint-service-permissions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-endpoint-service-permissions.html"
+    },
+    {
+        "title": "describe-vpc-endpoint-services",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-endpoint-services.html"
+    },
+    {
+        "title": "describe-vpc-endpoints",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-endpoints.html"
+    },
+    {
+        "title": "describe-vpc-peering-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpc-peering-connections.html"
+    },
+    {
+        "title": "describe-vpcs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpcs.html"
+    },
+    {
+        "title": "describe-vpn-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpn-connections.html"
+    },
+    {
+        "title": "describe-vpn-gateways",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/describe-vpn-gateways.html"
+    },
+    {
+        "title": "detach-classic-link-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/detach-classic-link-vpc.html"
+    },
+    {
+        "title": "detach-internet-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/detach-internet-gateway.html"
+    },
+    {
+        "title": "detach-network-interface",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/detach-network-interface.html"
+    },
+    {
+        "title": "detach-verified-access-trust-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/detach-verified-access-trust-provider.html"
+    },
+    {
+        "title": "detach-volume",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/detach-volume.html"
+    },
+    {
+        "title": "detach-vpn-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/detach-vpn-gateway.html"
+    },
+    {
+        "title": "disable-address-transfer",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-address-transfer.html"
+    },
+    {
+        "title": "disable-aws-network-performance-metric-subscription",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-aws-network-performance-metric-subscription.html"
+    },
+    {
+        "title": "disable-ebs-encryption-by-default",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-ebs-encryption-by-default.html"
+    },
+    {
+        "title": "disable-fast-launch",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-fast-launch.html"
+    },
+    {
+        "title": "disable-fast-snapshot-restores",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-fast-snapshot-restores.html"
+    },
+    {
+        "title": "disable-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-image.html"
+    },
+    {
+        "title": "disable-image-block-public-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-image-block-public-access.html"
+    },
+    {
+        "title": "disable-image-deprecation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-image-deprecation.html"
+    },
+    {
+        "title": "disable-image-deregistration-protection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-image-deregistration-protection.html"
+    },
+    {
+        "title": "disable-ipam-organization-admin-account",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-ipam-organization-admin-account.html"
+    },
+    {
+        "title": "disable-serial-console-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-serial-console-access.html"
+    },
+    {
+        "title": "disable-snapshot-block-public-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-snapshot-block-public-access.html"
+    },
+    {
+        "title": "disable-transit-gateway-route-table-propagation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-transit-gateway-route-table-propagation.html"
+    },
+    {
+        "title": "disable-vgw-route-propagation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-vgw-route-propagation.html"
+    },
+    {
+        "title": "disable-vpc-classic-link",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-vpc-classic-link.html"
+    },
+    {
+        "title": "disable-vpc-classic-link-dns-support",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disable-vpc-classic-link-dns-support.html"
+    },
+    {
+        "title": "disassociate-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-address.html"
+    },
+    {
+        "title": "disassociate-client-vpn-target-network",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-client-vpn-target-network.html"
+    },
+    {
+        "title": "disassociate-enclave-certificate-iam-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-enclave-certificate-iam-role.html"
+    },
+    {
+        "title": "disassociate-iam-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-iam-instance-profile.html"
+    },
+    {
+        "title": "disassociate-instance-event-window",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-instance-event-window.html"
+    },
+    {
+        "title": "disassociate-ipam-byoasn",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-ipam-byoasn.html"
+    },
+    {
+        "title": "disassociate-ipam-resource-discovery",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-ipam-resource-discovery.html"
+    },
+    {
+        "title": "disassociate-nat-gateway-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-nat-gateway-address.html"
+    },
+    {
+        "title": "disassociate-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-route-table.html"
+    },
+    {
+        "title": "disassociate-subnet-cidr-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-subnet-cidr-block.html"
+    },
+    {
+        "title": "disassociate-transit-gateway-multicast-domain",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-transit-gateway-multicast-domain.html"
+    },
+    {
+        "title": "disassociate-transit-gateway-policy-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-transit-gateway-policy-table.html"
+    },
+    {
+        "title": "disassociate-transit-gateway-route-table",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-transit-gateway-route-table.html"
+    },
+    {
+        "title": "disassociate-trunk-interface",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-trunk-interface.html"
+    },
+    {
+        "title": "disassociate-vpc-cidr-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/disassociate-vpc-cidr-block.html"
+    },
+    {
+        "title": "enable-address-transfer",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-address-transfer.html"
+    },
+    {
+        "title": "enable-aws-network-performance-metric-subscription",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-aws-network-performance-metric-subscription.html"
+    },
+    {
+        "title": "enable-ebs-encryption-by-default",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-ebs-encryption-by-default.html"
+    },
+    {
+        "title": "enable-fast-launch",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-fast-launch.html"
+    },
+    {
+        "title": "enable-fast-snapshot-restores",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-fast-snapshot-restores.html"
+    },
+    {
+        "title": "enable-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-image.html"
+    },
+    {
+        "title": "enable-image-block-public-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-image-block-public-access.html"
+    },
+    {
+        "title": "enable-image-deprecation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-image-deprecation.html"
+    },
+    {
+        "title": "enable-image-deregistration-protection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-image-deregistration-protection.html"
+    },
+    {
+        "title": "enable-ipam-organization-admin-account",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-ipam-organization-admin-account.html"
+    },
+    {
+        "title": "enable-reachability-analyzer-organization-sharing",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-reachability-analyzer-organization-sharing.html"
+    },
+    {
+        "title": "enable-serial-console-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-serial-console-access.html"
+    },
+    {
+        "title": "enable-snapshot-block-public-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-snapshot-block-public-access.html"
+    },
+    {
+        "title": "enable-transit-gateway-route-table-propagation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-transit-gateway-route-table-propagation.html"
+    },
+    {
+        "title": "enable-vgw-route-propagation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-vgw-route-propagation.html"
+    },
+    {
+        "title": "enable-volume-io",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-volume-io.html"
+    },
+    {
+        "title": "enable-vpc-classic-link",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-vpc-classic-link.html"
+    },
+    {
+        "title": "enable-vpc-classic-link-dns-support",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/enable-vpc-classic-link-dns-support.html"
+    },
+    {
+        "title": "export-client-vpn-client-certificate-revocation-list",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/export-client-vpn-client-certificate-revocation-list.html"
+    },
+    {
+        "title": "export-client-vpn-client-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/export-client-vpn-client-configuration.html"
+    },
+    {
+        "title": "export-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/export-image.html"
+    },
+    {
+        "title": "export-transit-gateway-routes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/export-transit-gateway-routes.html"
+    },
+    {
+        "title": "get-associated-enclave-certificate-iam-roles",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-associated-enclave-certificate-iam-roles.html"
+    },
+    {
+        "title": "get-associated-ipv6-pool-cidrs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-associated-ipv6-pool-cidrs.html"
+    },
+    {
+        "title": "get-aws-network-performance-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-aws-network-performance-data.html"
+    },
+    {
+        "title": "get-capacity-reservation-usage",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-capacity-reservation-usage.html"
+    },
+    {
+        "title": "get-coip-pool-usage",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-coip-pool-usage.html"
+    },
+    {
+        "title": "get-console-output",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-console-output.html"
+    },
+    {
+        "title": "get-console-screenshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-console-screenshot.html"
+    },
+    {
+        "title": "get-default-credit-specification",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-default-credit-specification.html"
+    },
+    {
+        "title": "get-ebs-default-kms-key-id",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ebs-default-kms-key-id.html"
+    },
+    {
+        "title": "get-ebs-encryption-by-default",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ebs-encryption-by-default.html"
+    },
+    {
+        "title": "get-flow-logs-integration-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-flow-logs-integration-template.html"
+    },
+    {
+        "title": "get-groups-for-capacity-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-groups-for-capacity-reservation.html"
+    },
+    {
+        "title": "get-host-reservation-purchase-preview",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-host-reservation-purchase-preview.html"
+    },
+    {
+        "title": "get-image-block-public-access-state",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-image-block-public-access-state.html"
+    },
+    {
+        "title": "get-instance-metadata-defaults",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-instance-metadata-defaults.html"
+    },
+    {
+        "title": "get-instance-tpm-ek-pub",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-instance-tpm-ek-pub.html"
+    },
+    {
+        "title": "get-instance-types-from-instance-requirements",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-instance-types-from-instance-requirements.html"
+    },
+    {
+        "title": "get-instance-uefi-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-instance-uefi-data.html"
+    },
+    {
+        "title": "get-ipam-address-history",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-address-history.html"
+    },
+    {
+        "title": "get-ipam-discovered-accounts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-discovered-accounts.html"
+    },
+    {
+        "title": "get-ipam-discovered-public-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-discovered-public-addresses.html"
+    },
+    {
+        "title": "get-ipam-discovered-resource-cidrs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-discovered-resource-cidrs.html"
+    },
+    {
+        "title": "get-ipam-pool-allocations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-pool-allocations.html"
+    },
+    {
+        "title": "get-ipam-pool-cidrs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-pool-cidrs.html"
+    },
+    {
+        "title": "get-ipam-resource-cidrs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-ipam-resource-cidrs.html"
+    },
+    {
+        "title": "get-launch-template-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-launch-template-data.html"
+    },
+    {
+        "title": "get-managed-prefix-list-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-managed-prefix-list-associations.html"
+    },
+    {
+        "title": "get-managed-prefix-list-entries",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-managed-prefix-list-entries.html"
+    },
+    {
+        "title": "get-network-insights-access-scope-analysis-findings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-network-insights-access-scope-analysis-findings.html"
+    },
+    {
+        "title": "get-network-insights-access-scope-content",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-network-insights-access-scope-content.html"
+    },
+    {
+        "title": "get-password-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-password-data.html"
+    },
+    {
+        "title": "get-reserved-instances-exchange-quote",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-reserved-instances-exchange-quote.html"
+    },
+    {
+        "title": "get-security-groups-for-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-security-groups-for-vpc.html"
+    },
+    {
+        "title": "get-serial-console-access-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-serial-console-access-status.html"
+    },
+    {
+        "title": "get-snapshot-block-public-access-state",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-snapshot-block-public-access-state.html"
+    },
+    {
+        "title": "get-spot-placement-scores",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-spot-placement-scores.html"
+    },
+    {
+        "title": "get-subnet-cidr-reservations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-subnet-cidr-reservations.html"
+    },
+    {
+        "title": "get-transit-gateway-attachment-propagations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-attachment-propagations.html"
+    },
+    {
+        "title": "get-transit-gateway-multicast-domain-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-multicast-domain-associations.html"
+    },
+    {
+        "title": "get-transit-gateway-policy-table-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-policy-table-associations.html"
+    },
+    {
+        "title": "get-transit-gateway-policy-table-entries",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-policy-table-entries.html"
+    },
+    {
+        "title": "get-transit-gateway-prefix-list-references",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-prefix-list-references.html"
+    },
+    {
+        "title": "get-transit-gateway-route-table-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-route-table-associations.html"
+    },
+    {
+        "title": "get-transit-gateway-route-table-propagations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-transit-gateway-route-table-propagations.html"
+    },
+    {
+        "title": "get-verified-access-endpoint-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-verified-access-endpoint-policy.html"
+    },
+    {
+        "title": "get-verified-access-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-verified-access-group-policy.html"
+    },
+    {
+        "title": "get-vpn-connection-device-sample-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-vpn-connection-device-sample-configuration.html"
+    },
+    {
+        "title": "get-vpn-connection-device-types",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-vpn-connection-device-types.html"
+    },
+    {
+        "title": "get-vpn-tunnel-replacement-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/get-vpn-tunnel-replacement-status.html"
+    },
+    {
+        "title": "import-client-vpn-client-certificate-revocation-list",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/import-client-vpn-client-certificate-revocation-list.html"
+    },
+    {
+        "title": "import-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/import-image.html"
+    },
+    {
+        "title": "import-key-pair",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/import-key-pair.html"
+    },
+    {
+        "title": "import-snapshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/import-snapshot.html"
+    },
+    {
+        "title": "list-images-in-recycle-bin",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/list-images-in-recycle-bin.html"
+    },
+    {
+        "title": "list-snapshots-in-recycle-bin",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/list-snapshots-in-recycle-bin.html"
+    },
+    {
+        "title": "lock-snapshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/lock-snapshot.html"
+    },
+    {
+        "title": "modify-address-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-address-attribute.html"
+    },
+    {
+        "title": "modify-availability-zone-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-availability-zone-group.html"
+    },
+    {
+        "title": "modify-capacity-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-capacity-reservation.html"
+    },
+    {
+        "title": "modify-capacity-reservation-fleet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-capacity-reservation-fleet.html"
+    },
+    {
+        "title": "modify-client-vpn-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-client-vpn-endpoint.html"
+    },
+    {
+        "title": "modify-default-credit-specification",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-default-credit-specification.html"
+    },
+    {
+        "title": "modify-ebs-default-kms-key-id",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-ebs-default-kms-key-id.html"
+    },
+    {
+        "title": "modify-fleet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-fleet.html"
+    },
+    {
+        "title": "modify-fpga-image-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-fpga-image-attribute.html"
+    },
+    {
+        "title": "modify-hosts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-hosts.html"
+    },
+    {
+        "title": "modify-id-format",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-id-format.html"
+    },
+    {
+        "title": "modify-identity-id-format",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-identity-id-format.html"
+    },
+    {
+        "title": "modify-image-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-image-attribute.html"
+    },
+    {
+        "title": "modify-instance-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-attribute.html"
+    },
+    {
+        "title": "modify-instance-capacity-reservation-attributes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-capacity-reservation-attributes.html"
+    },
+    {
+        "title": "modify-instance-credit-specification",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-credit-specification.html"
+    },
+    {
+        "title": "modify-instance-event-start-time",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-event-start-time.html"
+    },
+    {
+        "title": "modify-instance-event-window",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-event-window.html"
+    },
+    {
+        "title": "modify-instance-maintenance-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-maintenance-options.html"
+    },
+    {
+        "title": "modify-instance-metadata-defaults",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-metadata-defaults.html"
+    },
+    {
+        "title": "modify-instance-metadata-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-metadata-options.html"
+    },
+    {
+        "title": "modify-instance-placement",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-instance-placement.html"
+    },
+    {
+        "title": "modify-ipam",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-ipam.html"
+    },
+    {
+        "title": "modify-ipam-pool",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-ipam-pool.html"
+    },
+    {
+        "title": "modify-ipam-resource-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-ipam-resource-cidr.html"
+    },
+    {
+        "title": "modify-ipam-resource-discovery",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-ipam-resource-discovery.html"
+    },
+    {
+        "title": "modify-ipam-scope",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-ipam-scope.html"
+    },
+    {
+        "title": "modify-launch-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-launch-template.html"
+    },
+    {
+        "title": "modify-local-gateway-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-local-gateway-route.html"
+    },
+    {
+        "title": "modify-managed-prefix-list",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-managed-prefix-list.html"
+    },
+    {
+        "title": "modify-network-interface-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-network-interface-attribute.html"
+    },
+    {
+        "title": "modify-private-dns-name-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-private-dns-name-options.html"
+    },
+    {
+        "title": "modify-reserved-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-reserved-instances.html"
+    },
+    {
+        "title": "modify-security-group-rules",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-security-group-rules.html"
+    },
+    {
+        "title": "modify-snapshot-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-snapshot-attribute.html"
+    },
+    {
+        "title": "modify-snapshot-tier",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-snapshot-tier.html"
+    },
+    {
+        "title": "modify-spot-fleet-request",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-spot-fleet-request.html"
+    },
+    {
+        "title": "modify-subnet-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-subnet-attribute.html"
+    },
+    {
+        "title": "modify-traffic-mirror-filter-network-services",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-traffic-mirror-filter-network-services.html"
+    },
+    {
+        "title": "modify-traffic-mirror-filter-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-traffic-mirror-filter-rule.html"
+    },
+    {
+        "title": "modify-traffic-mirror-session",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-traffic-mirror-session.html"
+    },
+    {
+        "title": "modify-transit-gateway",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-transit-gateway.html"
+    },
+    {
+        "title": "modify-transit-gateway-prefix-list-reference",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-transit-gateway-prefix-list-reference.html"
+    },
+    {
+        "title": "modify-transit-gateway-vpc-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-transit-gateway-vpc-attachment.html"
+    },
+    {
+        "title": "modify-verified-access-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-endpoint.html"
+    },
+    {
+        "title": "modify-verified-access-endpoint-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-endpoint-policy.html"
+    },
+    {
+        "title": "modify-verified-access-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-group.html"
+    },
+    {
+        "title": "modify-verified-access-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-group-policy.html"
+    },
+    {
+        "title": "modify-verified-access-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-instance.html"
+    },
+    {
+        "title": "modify-verified-access-instance-logging-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-instance-logging-configuration.html"
+    },
+    {
+        "title": "modify-verified-access-trust-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-verified-access-trust-provider.html"
+    },
+    {
+        "title": "modify-volume",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-volume.html"
+    },
+    {
+        "title": "modify-volume-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-volume-attribute.html"
+    },
+    {
+        "title": "modify-vpc-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-attribute.html"
+    },
+    {
+        "title": "modify-vpc-endpoint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-endpoint.html"
+    },
+    {
+        "title": "modify-vpc-endpoint-connection-notification",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-endpoint-connection-notification.html"
+    },
+    {
+        "title": "modify-vpc-endpoint-service-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-endpoint-service-configuration.html"
+    },
+    {
+        "title": "modify-vpc-endpoint-service-payer-responsibility",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-endpoint-service-payer-responsibility.html"
+    },
+    {
+        "title": "modify-vpc-endpoint-service-permissions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-endpoint-service-permissions.html"
+    },
+    {
+        "title": "modify-vpc-peering-connection-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-peering-connection-options.html"
+    },
+    {
+        "title": "modify-vpc-tenancy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpc-tenancy.html"
+    },
+    {
+        "title": "modify-vpn-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpn-connection.html"
+    },
+    {
+        "title": "modify-vpn-connection-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpn-connection-options.html"
+    },
+    {
+        "title": "modify-vpn-tunnel-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpn-tunnel-certificate.html"
+    },
+    {
+        "title": "modify-vpn-tunnel-options",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/modify-vpn-tunnel-options.html"
+    },
+    {
+        "title": "monitor-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/monitor-instances.html"
+    },
+    {
+        "title": "move-address-to-vpc",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/move-address-to-vpc.html"
+    },
+    {
+        "title": "move-byoip-cidr-to-ipam",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/move-byoip-cidr-to-ipam.html"
+    },
+    {
+        "title": "move-capacity-reservation-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/move-capacity-reservation-instances.html"
+    },
+    {
+        "title": "provision-byoip-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/provision-byoip-cidr.html"
+    },
+    {
+        "title": "provision-ipam-byoasn",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/provision-ipam-byoasn.html"
+    },
+    {
+        "title": "provision-ipam-pool-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/provision-ipam-pool-cidr.html"
+    },
+    {
+        "title": "provision-public-ipv4-pool-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/provision-public-ipv4-pool-cidr.html"
+    },
+    {
+        "title": "purchase-capacity-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/purchase-capacity-block.html"
+    },
+    {
+        "title": "purchase-host-reservation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/purchase-host-reservation.html"
+    },
+    {
+        "title": "purchase-reserved-instances-offering",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/purchase-reserved-instances-offering.html"
+    },
+    {
+        "title": "purchase-scheduled-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/purchase-scheduled-instances.html"
+    },
+    {
+        "title": "reboot-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reboot-instances.html"
+    },
+    {
+        "title": "register-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/register-image.html"
+    },
+    {
+        "title": "register-instance-event-notification-attributes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/register-instance-event-notification-attributes.html"
+    },
+    {
+        "title": "register-transit-gateway-multicast-group-members",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/register-transit-gateway-multicast-group-members.html"
+    },
+    {
+        "title": "register-transit-gateway-multicast-group-sources",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/register-transit-gateway-multicast-group-sources.html"
+    },
+    {
+        "title": "reject-transit-gateway-multicast-domain-associations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reject-transit-gateway-multicast-domain-associations.html"
+    },
+    {
+        "title": "reject-transit-gateway-peering-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reject-transit-gateway-peering-attachment.html"
+    },
+    {
+        "title": "reject-transit-gateway-vpc-attachment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reject-transit-gateway-vpc-attachment.html"
+    },
+    {
+        "title": "reject-vpc-endpoint-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reject-vpc-endpoint-connections.html"
+    },
+    {
+        "title": "reject-vpc-peering-connection",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reject-vpc-peering-connection.html"
+    },
+    {
+        "title": "release-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/release-address.html"
+    },
+    {
+        "title": "release-hosts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/release-hosts.html"
+    },
+    {
+        "title": "release-ipam-pool-allocation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/release-ipam-pool-allocation.html"
+    },
+    {
+        "title": "replace-iam-instance-profile-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-iam-instance-profile-association.html"
+    },
+    {
+        "title": "replace-network-acl-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-network-acl-association.html"
+    },
+    {
+        "title": "replace-network-acl-entry",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-network-acl-entry.html"
+    },
+    {
+        "title": "replace-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-route.html"
+    },
+    {
+        "title": "replace-route-table-association",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-route-table-association.html"
+    },
+    {
+        "title": "replace-transit-gateway-route",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-transit-gateway-route.html"
+    },
+    {
+        "title": "replace-vpn-tunnel",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/replace-vpn-tunnel.html"
+    },
+    {
+        "title": "report-instance-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/report-instance-status.html"
+    },
+    {
+        "title": "request-spot-fleet",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/request-spot-fleet.html"
+    },
+    {
+        "title": "request-spot-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/request-spot-instances.html"
+    },
+    {
+        "title": "reset-address-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-address-attribute.html"
+    },
+    {
+        "title": "reset-ebs-default-kms-key-id",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-ebs-default-kms-key-id.html"
+    },
+    {
+        "title": "reset-fpga-image-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-fpga-image-attribute.html"
+    },
+    {
+        "title": "reset-image-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-image-attribute.html"
+    },
+    {
+        "title": "reset-instance-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-instance-attribute.html"
+    },
+    {
+        "title": "reset-network-interface-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-network-interface-attribute.html"
+    },
+    {
+        "title": "reset-snapshot-attribute",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/reset-snapshot-attribute.html"
+    },
+    {
+        "title": "restore-address-to-classic",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/restore-address-to-classic.html"
+    },
+    {
+        "title": "restore-image-from-recycle-bin",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/restore-image-from-recycle-bin.html"
+    },
+    {
+        "title": "restore-managed-prefix-list-version",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/restore-managed-prefix-list-version.html"
+    },
+    {
+        "title": "restore-snapshot-from-recycle-bin",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/restore-snapshot-from-recycle-bin.html"
+    },
+    {
+        "title": "restore-snapshot-tier",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/restore-snapshot-tier.html"
+    },
+    {
+        "title": "revoke-client-vpn-ingress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/revoke-client-vpn-ingress.html"
+    },
+    {
+        "title": "revoke-security-group-egress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/revoke-security-group-egress.html"
+    },
+    {
+        "title": "revoke-security-group-ingress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/revoke-security-group-ingress.html"
+    },
+    {
+        "title": "run-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/run-instances.html"
+    },
+    {
+        "title": "run-scheduled-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/run-scheduled-instances.html"
+    },
+    {
+        "title": "search-local-gateway-routes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/search-local-gateway-routes.html"
+    },
+    {
+        "title": "search-transit-gateway-multicast-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/search-transit-gateway-multicast-groups.html"
+    },
+    {
+        "title": "search-transit-gateway-routes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/search-transit-gateway-routes.html"
+    },
+    {
+        "title": "send-diagnostic-interrupt",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/send-diagnostic-interrupt.html"
+    },
+    {
+        "title": "start-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/start-instances.html"
+    },
+    {
+        "title": "start-network-insights-access-scope-analysis",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/start-network-insights-access-scope-analysis.html"
+    },
+    {
+        "title": "start-network-insights-analysis",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/start-network-insights-analysis.html"
+    },
+    {
+        "title": "start-vpc-endpoint-service-private-dns-verification",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/start-vpc-endpoint-service-private-dns-verification.html"
+    },
+    {
+        "title": "stop-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/stop-instances.html"
+    },
+    {
+        "title": "terminate-client-vpn-connections",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/terminate-client-vpn-connections.html"
+    },
+    {
+        "title": "terminate-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/terminate-instances.html"
+    },
+    {
+        "title": "unassign-ipv6-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/unassign-ipv6-addresses.html"
+    },
+    {
+        "title": "unassign-private-ip-addresses",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/unassign-private-ip-addresses.html"
+    },
+    {
+        "title": "unassign-private-nat-gateway-address",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/unassign-private-nat-gateway-address.html"
+    },
+    {
+        "title": "unlock-snapshot",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/unlock-snapshot.html"
+    },
+    {
+        "title": "unmonitor-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/unmonitor-instances.html"
+    },
+    {
+        "title": "update-security-group-rule-descriptions-egress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/update-security-group-rule-descriptions-egress.html"
+    },
+    {
+        "title": "update-security-group-rule-descriptions-ingress",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/update-security-group-rule-descriptions-ingress.html"
+    },
+    {
+        "title": "wait",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/wait/index.html"
+    },
+    {
+        "title": "withdraw-byoip-cidr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2/withdraw-byoip-cidr.html"
+    }
+]

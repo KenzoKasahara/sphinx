@@ -1,0 +1,98 @@
+[
+    {
+        "title": "batch-check-layer-availability",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/batch-check-layer-availability.html"
+    },
+    {
+        "title": "batch-delete-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/batch-delete-image.html"
+    },
+    {
+        "title": "complete-layer-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/complete-layer-upload.html"
+    },
+    {
+        "title": "create-repository",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/create-repository.html"
+    },
+    {
+        "title": "delete-repository",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/delete-repository.html"
+    },
+    {
+        "title": "delete-repository-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/delete-repository-policy.html"
+    },
+    {
+        "title": "describe-image-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/describe-image-tags.html"
+    },
+    {
+        "title": "describe-images",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/describe-images.html"
+    },
+    {
+        "title": "describe-registries",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/describe-registries.html"
+    },
+    {
+        "title": "describe-repositories",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/describe-repositories.html"
+    },
+    {
+        "title": "get-authorization-token",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/get-authorization-token.html"
+    },
+    {
+        "title": "get-login-password",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/get-login-password.html"
+    },
+    {
+        "title": "get-registry-catalog-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/get-registry-catalog-data.html"
+    },
+    {
+        "title": "get-repository-catalog-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/get-repository-catalog-data.html"
+    },
+    {
+        "title": "get-repository-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/get-repository-policy.html"
+    },
+    {
+        "title": "initiate-layer-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/initiate-layer-upload.html"
+    },
+    {
+        "title": "list-tags-for-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/list-tags-for-resource.html"
+    },
+    {
+        "title": "put-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/put-image.html"
+    },
+    {
+        "title": "put-registry-catalog-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/put-registry-catalog-data.html"
+    },
+    {
+        "title": "put-repository-catalog-data",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/put-repository-catalog-data.html"
+    },
+    {
+        "title": "set-repository-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/set-repository-policy.html"
+    },
+    {
+        "title": "tag-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/tag-resource.html"
+    },
+    {
+        "title": "untag-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/untag-resource.html"
+    },
+    {
+        "title": "upload-layer-part",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/upload-layer-part.html"
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "title": "associate-access-grants-identity-center",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/associate-access-grants-identity-center.html"
+    },
+    {
+        "title": "create-access-grant",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-access-grant.html"
+    },
+    {
+        "title": "create-access-grants-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-access-grants-instance.html"
+    },
+    {
+        "title": "create-access-grants-location",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-access-grants-location.html"
+    },
+    {
+        "title": "create-access-point",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-access-point.html"
+    },
+    {
+        "title": "create-access-point-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-access-point-for-object-lambda.html"
+    },
+    {
+        "title": "create-bucket",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-bucket.html"
+    },
+    {
+        "title": "create-job",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-job.html"
+    },
+    {
+        "title": "create-multi-region-access-point",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-multi-region-access-point.html"
+    },
+    {
+        "title": "create-storage-lens-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/create-storage-lens-group.html"
+    },
+    {
+        "title": "delete-access-grant",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-grant.html"
+    },
+    {
+        "title": "delete-access-grants-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-grants-instance.html"
+    },
+    {
+        "title": "delete-access-grants-instance-resource-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-grants-instance-resource-policy.html"
+    },
+    {
+        "title": "delete-access-grants-location",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-grants-location.html"
+    },
+    {
+        "title": "delete-access-point",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-point.html"
+    },
+    {
+        "title": "delete-access-point-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-point-for-object-lambda.html"
+    },
+    {
+        "title": "delete-access-point-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-point-policy.html"
+    },
+    {
+        "title": "delete-access-point-policy-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-access-point-policy-for-object-lambda.html"
+    },
+    {
+        "title": "delete-bucket",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-bucket.html"
+    },
+    {
+        "title": "delete-bucket-lifecycle-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-bucket-lifecycle-configuration.html"
+    },
+    {
+        "title": "delete-bucket-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-bucket-policy.html"
+    },
+    {
+        "title": "delete-bucket-replication",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-bucket-replication.html"
+    },
+    {
+        "title": "delete-bucket-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-bucket-tagging.html"
+    },
+    {
+        "title": "delete-job-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-job-tagging.html"
+    },
+    {
+        "title": "delete-multi-region-access-point",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-multi-region-access-point.html"
+    },
+    {
+        "title": "delete-public-access-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-public-access-block.html"
+    },
+    {
+        "title": "delete-storage-lens-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-storage-lens-configuration.html"
+    },
+    {
+        "title": "delete-storage-lens-configuration-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-storage-lens-configuration-tagging.html"
+    },
+    {
+        "title": "delete-storage-lens-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/delete-storage-lens-group.html"
+    },
+    {
+        "title": "describe-job",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/describe-job.html"
+    },
+    {
+        "title": "describe-multi-region-access-point-operation",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/describe-multi-region-access-point-operation.html"
+    },
+    {
+        "title": "dissociate-access-grants-identity-center",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/dissociate-access-grants-identity-center.html"
+    },
+    {
+        "title": "get-access-grant",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-grant.html"
+    },
+    {
+        "title": "get-access-grants-instance",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-grants-instance.html"
+    },
+    {
+        "title": "get-access-grants-instance-for-prefix",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-grants-instance-for-prefix.html"
+    },
+    {
+        "title": "get-access-grants-instance-resource-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-grants-instance-resource-policy.html"
+    },
+    {
+        "title": "get-access-grants-location",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-grants-location.html"
+    },
+    {
+        "title": "get-access-point",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point.html"
+    },
+    {
+        "title": "get-access-point-configuration-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point-configuration-for-object-lambda.html"
+    },
+    {
+        "title": "get-access-point-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point-for-object-lambda.html"
+    },
+    {
+        "title": "get-access-point-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point-policy.html"
+    },
+    {
+        "title": "get-access-point-policy-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point-policy-for-object-lambda.html"
+    },
+    {
+        "title": "get-access-point-policy-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point-policy-status.html"
+    },
+    {
+        "title": "get-access-point-policy-status-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-access-point-policy-status-for-object-lambda.html"
+    },
+    {
+        "title": "get-bucket",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-bucket.html"
+    },
+    {
+        "title": "get-bucket-lifecycle-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-bucket-lifecycle-configuration.html"
+    },
+    {
+        "title": "get-bucket-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-bucket-policy.html"
+    },
+    {
+        "title": "get-bucket-replication",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-bucket-replication.html"
+    },
+    {
+        "title": "get-bucket-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-bucket-tagging.html"
+    },
+    {
+        "title": "get-bucket-versioning",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-bucket-versioning.html"
+    },
+    {
+        "title": "get-data-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-data-access.html"
+    },
+    {
+        "title": "get-job-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-job-tagging.html"
+    },
+    {
+        "title": "get-multi-region-access-point",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-multi-region-access-point.html"
+    },
+    {
+        "title": "get-multi-region-access-point-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-multi-region-access-point-policy.html"
+    },
+    {
+        "title": "get-multi-region-access-point-policy-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-multi-region-access-point-policy-status.html"
+    },
+    {
+        "title": "get-multi-region-access-point-routes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-multi-region-access-point-routes.html"
+    },
+    {
+        "title": "get-public-access-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-public-access-block.html"
+    },
+    {
+        "title": "get-storage-lens-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-storage-lens-configuration.html"
+    },
+    {
+        "title": "get-storage-lens-configuration-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-storage-lens-configuration-tagging.html"
+    },
+    {
+        "title": "get-storage-lens-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/get-storage-lens-group.html"
+    },
+    {
+        "title": "list-access-grants",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-grants.html"
+    },
+    {
+        "title": "list-access-grants-instances",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-grants-instances.html"
+    },
+    {
+        "title": "list-access-grants-locations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-grants-locations.html"
+    },
+    {
+        "title": "list-access-points",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-points.html"
+    },
+    {
+        "title": "list-access-points-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-points-for-object-lambda.html"
+    },
+    {
+        "title": "list-jobs",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-jobs.html"
+    },
+    {
+        "title": "list-multi-region-access-points",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-multi-region-access-points.html"
+    },
+    {
+        "title": "list-regional-buckets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-regional-buckets.html"
+    },
+    {
+        "title": "list-storage-lens-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-storage-lens-configurations.html"
+    },
+    {
+        "title": "list-storage-lens-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-storage-lens-groups.html"
+    },
+    {
+        "title": "list-tags-for-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-tags-for-resource.html"
+    },
+    {
+        "title": "put-access-grants-instance-resource-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-access-grants-instance-resource-policy.html"
+    },
+    {
+        "title": "put-access-point-configuration-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-access-point-configuration-for-object-lambda.html"
+    },
+    {
+        "title": "put-access-point-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-access-point-policy.html"
+    },
+    {
+        "title": "put-access-point-policy-for-object-lambda",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-access-point-policy-for-object-lambda.html"
+    },
+    {
+        "title": "put-bucket-lifecycle-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-bucket-lifecycle-configuration.html"
+    },
+    {
+        "title": "put-bucket-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-bucket-policy.html"
+    },
+    {
+        "title": "put-bucket-replication",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-bucket-replication.html"
+    },
+    {
+        "title": "put-bucket-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-bucket-tagging.html"
+    },
+    {
+        "title": "put-bucket-versioning",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-bucket-versioning.html"
+    },
+    {
+        "title": "put-job-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-job-tagging.html"
+    },
+    {
+        "title": "put-multi-region-access-point-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-multi-region-access-point-policy.html"
+    },
+    {
+        "title": "put-public-access-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-public-access-block.html"
+    },
+    {
+        "title": "put-storage-lens-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-storage-lens-configuration.html"
+    },
+    {
+        "title": "put-storage-lens-configuration-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/put-storage-lens-configuration-tagging.html"
+    },
+    {
+        "title": "submit-multi-region-access-point-routes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/submit-multi-region-access-point-routes.html"
+    },
+    {
+        "title": "tag-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/tag-resource.html"
+    },
+    {
+        "title": "untag-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/untag-resource.html"
+    },
+    {
+        "title": "update-access-grants-location",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/update-access-grants-location.html"
+    },
+    {
+        "title": "update-job-priority",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/update-job-priority.html"
+    },
+    {
+        "title": "update-job-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/update-job-status.html"
+    },
+    {
+        "title": "update-storage-lens-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/update-storage-lens-group.html"
+    }
+]

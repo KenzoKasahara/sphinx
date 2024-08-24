@@ -1,0 +1,18 @@
+[
+    {
+        "title": "open-tunnel",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2-instance-connect/open-tunnel.html"
+    },
+    {
+        "title": "send-serial-console-ssh-public-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2-instance-connect/send-serial-console-ssh-public-key.html"
+    },
+    {
+        "title": "send-ssh-public-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2-instance-connect/send-ssh-public-key.html"
+    },
+    {
+        "title": "ssh",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/ec2-instance-connect/ssh.html"
+    }
+]

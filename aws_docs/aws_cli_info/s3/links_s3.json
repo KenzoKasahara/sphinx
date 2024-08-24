@@ -1,0 +1,18 @@
+[
+    {
+        "title": "s3",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/index.html"
+    },
+    {
+        "title": "s3api",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/index.html"
+    },
+    {
+        "title": "s3control",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/index.html"
+    },
+    {
+        "title": "s3outposts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3outposts/index.html"
+    }
+]

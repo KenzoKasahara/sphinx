@@ -1,0 +1,18 @@
+[
+    {
+        "title": "delete-agent-memory",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/delete-agent-memory.html"
+    },
+    {
+        "title": "get-agent-memory",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-agent-memory.html"
+    },
+    {
+        "title": "retrieve",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/retrieve.html"
+    },
+    {
+        "title": "retrieve-and-generate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/retrieve-and-generate.html"
+    }
+]

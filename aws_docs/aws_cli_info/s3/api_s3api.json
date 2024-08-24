@@ -1,0 +1,386 @@
+[
+    {
+        "title": "abort-multipart-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/abort-multipart-upload.html"
+    },
+    {
+        "title": "complete-multipart-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/complete-multipart-upload.html"
+    },
+    {
+        "title": "copy-object",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/copy-object.html"
+    },
+    {
+        "title": "create-bucket",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-bucket.html"
+    },
+    {
+        "title": "create-multipart-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-multipart-upload.html"
+    },
+    {
+        "title": "create-session",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-session.html"
+    },
+    {
+        "title": "delete-bucket",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html"
+    },
+    {
+        "title": "delete-bucket-analytics-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-analytics-configuration.html"
+    },
+    {
+        "title": "delete-bucket-cors",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-cors.html"
+    },
+    {
+        "title": "delete-bucket-encryption",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-encryption.html"
+    },
+    {
+        "title": "delete-bucket-intelligent-tiering-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-intelligent-tiering-configuration.html"
+    },
+    {
+        "title": "delete-bucket-inventory-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-inventory-configuration.html"
+    },
+    {
+        "title": "delete-bucket-lifecycle",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-lifecycle.html"
+    },
+    {
+        "title": "delete-bucket-metrics-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-metrics-configuration.html"
+    },
+    {
+        "title": "delete-bucket-ownership-controls",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-ownership-controls.html"
+    },
+    {
+        "title": "delete-bucket-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-policy.html"
+    },
+    {
+        "title": "delete-bucket-replication",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-replication.html"
+    },
+    {
+        "title": "delete-bucket-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-tagging.html"
+    },
+    {
+        "title": "delete-bucket-website",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-website.html"
+    },
+    {
+        "title": "delete-object",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-object.html"
+    },
+    {
+        "title": "delete-object-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-object-tagging.html"
+    },
+    {
+        "title": "delete-objects",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-objects.html"
+    },
+    {
+        "title": "delete-public-access-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-public-access-block.html"
+    },
+    {
+        "title": "get-bucket-accelerate-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-accelerate-configuration.html"
+    },
+    {
+        "title": "get-bucket-acl",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-acl.html"
+    },
+    {
+        "title": "get-bucket-analytics-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-analytics-configuration.html"
+    },
+    {
+        "title": "get-bucket-cors",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-cors.html"
+    },
+    {
+        "title": "get-bucket-encryption",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-encryption.html"
+    },
+    {
+        "title": "get-bucket-intelligent-tiering-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-intelligent-tiering-configuration.html"
+    },
+    {
+        "title": "get-bucket-inventory-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-inventory-configuration.html"
+    },
+    {
+        "title": "get-bucket-lifecycle-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-lifecycle-configuration.html"
+    },
+    {
+        "title": "get-bucket-location",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-location.html"
+    },
+    {
+        "title": "get-bucket-logging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-logging.html"
+    },
+    {
+        "title": "get-bucket-metrics-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-metrics-configuration.html"
+    },
+    {
+        "title": "get-bucket-notification-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-notification-configuration.html"
+    },
+    {
+        "title": "get-bucket-ownership-controls",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-ownership-controls.html"
+    },
+    {
+        "title": "get-bucket-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-policy.html"
+    },
+    {
+        "title": "get-bucket-policy-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-policy-status.html"
+    },
+    {
+        "title": "get-bucket-replication",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-replication.html"
+    },
+    {
+        "title": "get-bucket-request-payment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-request-payment.html"
+    },
+    {
+        "title": "get-bucket-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-tagging.html"
+    },
+    {
+        "title": "get-bucket-versioning",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-versioning.html"
+    },
+    {
+        "title": "get-bucket-website",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-website.html"
+    },
+    {
+        "title": "get-object",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object.html"
+    },
+    {
+        "title": "get-object-acl",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-acl.html"
+    },
+    {
+        "title": "get-object-attributes",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-attributes.html"
+    },
+    {
+        "title": "get-object-legal-hold",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-legal-hold.html"
+    },
+    {
+        "title": "get-object-lock-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-lock-configuration.html"
+    },
+    {
+        "title": "get-object-retention",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-retention.html"
+    },
+    {
+        "title": "get-object-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-tagging.html"
+    },
+    {
+        "title": "get-object-torrent",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-torrent.html"
+    },
+    {
+        "title": "get-public-access-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-public-access-block.html"
+    },
+    {
+        "title": "head-bucket",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-bucket.html"
+    },
+    {
+        "title": "head-object",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-object.html"
+    },
+    {
+        "title": "list-bucket-analytics-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-analytics-configurations.html"
+    },
+    {
+        "title": "list-bucket-intelligent-tiering-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-intelligent-tiering-configurations.html"
+    },
+    {
+        "title": "list-bucket-inventory-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-inventory-configurations.html"
+    },
+    {
+        "title": "list-bucket-metrics-configurations",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-metrics-configurations.html"
+    },
+    {
+        "title": "list-buckets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-buckets.html"
+    },
+    {
+        "title": "list-directory-buckets",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-directory-buckets.html"
+    },
+    {
+        "title": "list-multipart-uploads",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-multipart-uploads.html"
+    },
+    {
+        "title": "list-object-versions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-object-versions.html"
+    },
+    {
+        "title": "list-objects",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects.html"
+    },
+    {
+        "title": "list-objects-v2",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects-v2.html"
+    },
+    {
+        "title": "list-parts",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-parts.html"
+    },
+    {
+        "title": "put-bucket-accelerate-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-accelerate-configuration.html"
+    },
+    {
+        "title": "put-bucket-acl",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-acl.html"
+    },
+    {
+        "title": "put-bucket-analytics-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-analytics-configuration.html"
+    },
+    {
+        "title": "put-bucket-cors",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-cors.html"
+    },
+    {
+        "title": "put-bucket-encryption",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-encryption.html"
+    },
+    {
+        "title": "put-bucket-intelligent-tiering-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-intelligent-tiering-configuration.html"
+    },
+    {
+        "title": "put-bucket-inventory-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-inventory-configuration.html"
+    },
+    {
+        "title": "put-bucket-lifecycle-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-lifecycle-configuration.html"
+    },
+    {
+        "title": "put-bucket-logging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-logging.html"
+    },
+    {
+        "title": "put-bucket-metrics-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-metrics-configuration.html"
+    },
+    {
+        "title": "put-bucket-notification-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-notification-configuration.html"
+    },
+    {
+        "title": "put-bucket-ownership-controls",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-ownership-controls.html"
+    },
+    {
+        "title": "put-bucket-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-policy.html"
+    },
+    {
+        "title": "put-bucket-replication",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-replication.html"
+    },
+    {
+        "title": "put-bucket-request-payment",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-request-payment.html"
+    },
+    {
+        "title": "put-bucket-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-tagging.html"
+    },
+    {
+        "title": "put-bucket-versioning",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-versioning.html"
+    },
+    {
+        "title": "put-bucket-website",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-website.html"
+    },
+    {
+        "title": "put-object",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object.html"
+    },
+    {
+        "title": "put-object-acl",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-acl.html"
+    },
+    {
+        "title": "put-object-legal-hold",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-legal-hold.html"
+    },
+    {
+        "title": "put-object-lock-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-lock-configuration.html"
+    },
+    {
+        "title": "put-object-retention",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-retention.html"
+    },
+    {
+        "title": "put-object-tagging",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-tagging.html"
+    },
+    {
+        "title": "put-public-access-block",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-public-access-block.html"
+    },
+    {
+        "title": "restore-object",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/restore-object.html"
+    },
+    {
+        "title": "select-object-content",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/select-object-content.html"
+    },
+    {
+        "title": "upload-part",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/upload-part.html"
+    },
+    {
+        "title": "upload-part-copy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/upload-part-copy.html"
+    },
+    {
+        "title": "wait",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/wait/index.html"
+    },
+    {
+        "title": "write-get-object-response",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/write-get-object-response.html"
+    }
+]

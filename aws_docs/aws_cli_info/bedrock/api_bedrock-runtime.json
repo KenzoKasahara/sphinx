@@ -1,0 +1,14 @@
+[
+    {
+        "title": "apply-guardrail",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-runtime/apply-guardrail.html"
+    },
+    {
+        "title": "converse",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-runtime/converse.html"
+    },
+    {
+        "title": "invoke-model",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-runtime/invoke-model.html"
+    }
+]

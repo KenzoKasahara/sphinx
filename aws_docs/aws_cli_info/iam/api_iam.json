@@ -1,0 +1,646 @@
+[
+    {
+        "title": "add-client-id-to-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/add-client-id-to-open-id-connect-provider.html"
+    },
+    {
+        "title": "add-role-to-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/add-role-to-instance-profile.html"
+    },
+    {
+        "title": "add-user-to-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/add-user-to-group.html"
+    },
+    {
+        "title": "attach-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/attach-group-policy.html"
+    },
+    {
+        "title": "attach-role-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/attach-role-policy.html"
+    },
+    {
+        "title": "attach-user-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/attach-user-policy.html"
+    },
+    {
+        "title": "change-password",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/change-password.html"
+    },
+    {
+        "title": "create-access-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-access-key.html"
+    },
+    {
+        "title": "create-account-alias",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-account-alias.html"
+    },
+    {
+        "title": "create-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-group.html"
+    },
+    {
+        "title": "create-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-instance-profile.html"
+    },
+    {
+        "title": "create-login-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-login-profile.html"
+    },
+    {
+        "title": "create-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-open-id-connect-provider.html"
+    },
+    {
+        "title": "create-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-policy.html"
+    },
+    {
+        "title": "create-policy-version",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-policy-version.html"
+    },
+    {
+        "title": "create-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-role.html"
+    },
+    {
+        "title": "create-saml-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-saml-provider.html"
+    },
+    {
+        "title": "create-service-linked-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-service-linked-role.html"
+    },
+    {
+        "title": "create-service-specific-credential",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-service-specific-credential.html"
+    },
+    {
+        "title": "create-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-user.html"
+    },
+    {
+        "title": "create-virtual-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/create-virtual-mfa-device.html"
+    },
+    {
+        "title": "deactivate-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/deactivate-mfa-device.html"
+    },
+    {
+        "title": "delete-access-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-access-key.html"
+    },
+    {
+        "title": "delete-account-alias",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-account-alias.html"
+    },
+    {
+        "title": "delete-account-password-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-account-password-policy.html"
+    },
+    {
+        "title": "delete-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-group.html"
+    },
+    {
+        "title": "delete-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-group-policy.html"
+    },
+    {
+        "title": "delete-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-instance-profile.html"
+    },
+    {
+        "title": "delete-login-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-login-profile.html"
+    },
+    {
+        "title": "delete-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-open-id-connect-provider.html"
+    },
+    {
+        "title": "delete-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-policy.html"
+    },
+    {
+        "title": "delete-policy-version",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-policy-version.html"
+    },
+    {
+        "title": "delete-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-role.html"
+    },
+    {
+        "title": "delete-role-permissions-boundary",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-role-permissions-boundary.html"
+    },
+    {
+        "title": "delete-role-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-role-policy.html"
+    },
+    {
+        "title": "delete-saml-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-saml-provider.html"
+    },
+    {
+        "title": "delete-server-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-server-certificate.html"
+    },
+    {
+        "title": "delete-service-linked-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-service-linked-role.html"
+    },
+    {
+        "title": "delete-service-specific-credential",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-service-specific-credential.html"
+    },
+    {
+        "title": "delete-signing-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-signing-certificate.html"
+    },
+    {
+        "title": "delete-ssh-public-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-ssh-public-key.html"
+    },
+    {
+        "title": "delete-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-user.html"
+    },
+    {
+        "title": "delete-user-permissions-boundary",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-user-permissions-boundary.html"
+    },
+    {
+        "title": "delete-user-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-user-policy.html"
+    },
+    {
+        "title": "delete-virtual-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/delete-virtual-mfa-device.html"
+    },
+    {
+        "title": "detach-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/detach-group-policy.html"
+    },
+    {
+        "title": "detach-role-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/detach-role-policy.html"
+    },
+    {
+        "title": "detach-user-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/detach-user-policy.html"
+    },
+    {
+        "title": "enable-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/enable-mfa-device.html"
+    },
+    {
+        "title": "generate-credential-report",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/generate-credential-report.html"
+    },
+    {
+        "title": "generate-organizations-access-report",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/generate-organizations-access-report.html"
+    },
+    {
+        "title": "generate-service-last-accessed-details",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/generate-service-last-accessed-details.html"
+    },
+    {
+        "title": "get-access-key-last-used",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-access-key-last-used.html"
+    },
+    {
+        "title": "get-account-authorization-details",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-account-authorization-details.html"
+    },
+    {
+        "title": "get-account-password-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-account-password-policy.html"
+    },
+    {
+        "title": "get-account-summary",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-account-summary.html"
+    },
+    {
+        "title": "get-context-keys-for-custom-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-context-keys-for-custom-policy.html"
+    },
+    {
+        "title": "get-context-keys-for-principal-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-context-keys-for-principal-policy.html"
+    },
+    {
+        "title": "get-credential-report",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-credential-report.html"
+    },
+    {
+        "title": "get-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-group.html"
+    },
+    {
+        "title": "get-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-group-policy.html"
+    },
+    {
+        "title": "get-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-instance-profile.html"
+    },
+    {
+        "title": "get-login-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-login-profile.html"
+    },
+    {
+        "title": "get-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-mfa-device.html"
+    },
+    {
+        "title": "get-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-open-id-connect-provider.html"
+    },
+    {
+        "title": "get-organizations-access-report",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-organizations-access-report.html"
+    },
+    {
+        "title": "get-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-policy.html"
+    },
+    {
+        "title": "get-policy-version",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-policy-version.html"
+    },
+    {
+        "title": "get-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-role.html"
+    },
+    {
+        "title": "get-role-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-role-policy.html"
+    },
+    {
+        "title": "get-saml-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-saml-provider.html"
+    },
+    {
+        "title": "get-server-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-server-certificate.html"
+    },
+    {
+        "title": "get-service-last-accessed-details",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-service-last-accessed-details.html"
+    },
+    {
+        "title": "get-service-last-accessed-details-with-entities",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-service-last-accessed-details-with-entities.html"
+    },
+    {
+        "title": "get-service-linked-role-deletion-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-service-linked-role-deletion-status.html"
+    },
+    {
+        "title": "get-ssh-public-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-ssh-public-key.html"
+    },
+    {
+        "title": "get-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-user.html"
+    },
+    {
+        "title": "get-user-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/get-user-policy.html"
+    },
+    {
+        "title": "list-access-keys",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-access-keys.html"
+    },
+    {
+        "title": "list-account-aliases",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-account-aliases.html"
+    },
+    {
+        "title": "list-attached-group-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-attached-group-policies.html"
+    },
+    {
+        "title": "list-attached-role-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-attached-role-policies.html"
+    },
+    {
+        "title": "list-attached-user-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-attached-user-policies.html"
+    },
+    {
+        "title": "list-entities-for-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-entities-for-policy.html"
+    },
+    {
+        "title": "list-group-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-group-policies.html"
+    },
+    {
+        "title": "list-groups",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-groups.html"
+    },
+    {
+        "title": "list-groups-for-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-groups-for-user.html"
+    },
+    {
+        "title": "list-instance-profile-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-instance-profile-tags.html"
+    },
+    {
+        "title": "list-instance-profiles",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-instance-profiles.html"
+    },
+    {
+        "title": "list-instance-profiles-for-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-instance-profiles-for-role.html"
+    },
+    {
+        "title": "list-mfa-device-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-mfa-device-tags.html"
+    },
+    {
+        "title": "list-mfa-devices",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-mfa-devices.html"
+    },
+    {
+        "title": "list-open-id-connect-provider-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-open-id-connect-provider-tags.html"
+    },
+    {
+        "title": "list-open-id-connect-providers",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-open-id-connect-providers.html"
+    },
+    {
+        "title": "list-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-policies.html"
+    },
+    {
+        "title": "list-policies-granting-service-access",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-policies-granting-service-access.html"
+    },
+    {
+        "title": "list-policy-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-policy-tags.html"
+    },
+    {
+        "title": "list-policy-versions",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-policy-versions.html"
+    },
+    {
+        "title": "list-role-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-role-policies.html"
+    },
+    {
+        "title": "list-role-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-role-tags.html"
+    },
+    {
+        "title": "list-roles",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-roles.html"
+    },
+    {
+        "title": "list-saml-provider-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-saml-provider-tags.html"
+    },
+    {
+        "title": "list-saml-providers",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-saml-providers.html"
+    },
+    {
+        "title": "list-server-certificate-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-server-certificate-tags.html"
+    },
+    {
+        "title": "list-server-certificates",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-server-certificates.html"
+    },
+    {
+        "title": "list-service-specific-credentials",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-service-specific-credentials.html"
+    },
+    {
+        "title": "list-signing-certificates",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-signing-certificates.html"
+    },
+    {
+        "title": "list-ssh-public-keys",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-ssh-public-keys.html"
+    },
+    {
+        "title": "list-user-policies",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-user-policies.html"
+    },
+    {
+        "title": "list-user-tags",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-user-tags.html"
+    },
+    {
+        "title": "list-users",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-users.html"
+    },
+    {
+        "title": "list-virtual-mfa-devices",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/list-virtual-mfa-devices.html"
+    },
+    {
+        "title": "put-group-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/put-group-policy.html"
+    },
+    {
+        "title": "put-role-permissions-boundary",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/put-role-permissions-boundary.html"
+    },
+    {
+        "title": "put-role-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/put-role-policy.html"
+    },
+    {
+        "title": "put-user-permissions-boundary",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/put-user-permissions-boundary.html"
+    },
+    {
+        "title": "put-user-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/put-user-policy.html"
+    },
+    {
+        "title": "remove-client-id-from-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/remove-client-id-from-open-id-connect-provider.html"
+    },
+    {
+        "title": "remove-role-from-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/remove-role-from-instance-profile.html"
+    },
+    {
+        "title": "remove-user-from-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/remove-user-from-group.html"
+    },
+    {
+        "title": "reset-service-specific-credential",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/reset-service-specific-credential.html"
+    },
+    {
+        "title": "resync-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/resync-mfa-device.html"
+    },
+    {
+        "title": "set-default-policy-version",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/set-default-policy-version.html"
+    },
+    {
+        "title": "set-security-token-service-preferences",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/set-security-token-service-preferences.html"
+    },
+    {
+        "title": "simulate-custom-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/simulate-custom-policy.html"
+    },
+    {
+        "title": "simulate-principal-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/simulate-principal-policy.html"
+    },
+    {
+        "title": "tag-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-instance-profile.html"
+    },
+    {
+        "title": "tag-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-mfa-device.html"
+    },
+    {
+        "title": "tag-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-open-id-connect-provider.html"
+    },
+    {
+        "title": "tag-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-policy.html"
+    },
+    {
+        "title": "tag-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-role.html"
+    },
+    {
+        "title": "tag-saml-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-saml-provider.html"
+    },
+    {
+        "title": "tag-server-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-server-certificate.html"
+    },
+    {
+        "title": "tag-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/tag-user.html"
+    },
+    {
+        "title": "untag-instance-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-instance-profile.html"
+    },
+    {
+        "title": "untag-mfa-device",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-mfa-device.html"
+    },
+    {
+        "title": "untag-open-id-connect-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-open-id-connect-provider.html"
+    },
+    {
+        "title": "untag-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-policy.html"
+    },
+    {
+        "title": "untag-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-role.html"
+    },
+    {
+        "title": "untag-saml-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-saml-provider.html"
+    },
+    {
+        "title": "untag-server-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-server-certificate.html"
+    },
+    {
+        "title": "untag-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/untag-user.html"
+    },
+    {
+        "title": "update-access-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-access-key.html"
+    },
+    {
+        "title": "update-account-password-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-account-password-policy.html"
+    },
+    {
+        "title": "update-assume-role-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-assume-role-policy.html"
+    },
+    {
+        "title": "update-group",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-group.html"
+    },
+    {
+        "title": "update-login-profile",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-login-profile.html"
+    },
+    {
+        "title": "update-open-id-connect-provider-thumbprint",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-open-id-connect-provider-thumbprint.html"
+    },
+    {
+        "title": "update-role",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-role.html"
+    },
+    {
+        "title": "update-role-description",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-role-description.html"
+    },
+    {
+        "title": "update-saml-provider",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-saml-provider.html"
+    },
+    {
+        "title": "update-server-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-server-certificate.html"
+    },
+    {
+        "title": "update-service-specific-credential",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-service-specific-credential.html"
+    },
+    {
+        "title": "update-signing-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-signing-certificate.html"
+    },
+    {
+        "title": "update-ssh-public-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-ssh-public-key.html"
+    },
+    {
+        "title": "update-user",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/update-user.html"
+    },
+    {
+        "title": "upload-server-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/upload-server-certificate.html"
+    },
+    {
+        "title": "upload-signing-certificate",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/upload-signing-certificate.html"
+    },
+    {
+        "title": "upload-ssh-public-key",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/upload-ssh-public-key.html"
+    },
+    {
+        "title": "wait",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/wait/index.html"
+    },
+    {
+        "title": "wizard",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest//reference/iam/wizard/index.html"
+    }
+]

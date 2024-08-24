@@ -1,0 +1,206 @@
+[
+    {
+        "title": "batch-check-layer-availability",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/batch-check-layer-availability.html"
+    },
+    {
+        "title": "batch-delete-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/batch-delete-image.html"
+    },
+    {
+        "title": "batch-get-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/batch-get-image.html"
+    },
+    {
+        "title": "batch-get-repository-scanning-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/batch-get-repository-scanning-configuration.html"
+    },
+    {
+        "title": "complete-layer-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/complete-layer-upload.html"
+    },
+    {
+        "title": "create-pull-through-cache-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/create-pull-through-cache-rule.html"
+    },
+    {
+        "title": "create-repository",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/create-repository.html"
+    },
+    {
+        "title": "create-repository-creation-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/create-repository-creation-template.html"
+    },
+    {
+        "title": "delete-lifecycle-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-lifecycle-policy.html"
+    },
+    {
+        "title": "delete-pull-through-cache-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-pull-through-cache-rule.html"
+    },
+    {
+        "title": "delete-registry-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-registry-policy.html"
+    },
+    {
+        "title": "delete-repository",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository.html"
+    },
+    {
+        "title": "delete-repository-creation-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository-creation-template.html"
+    },
+    {
+        "title": "delete-repository-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository-policy.html"
+    },
+    {
+        "title": "describe-image-replication-status",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-replication-status.html"
+    },
+    {
+        "title": "describe-image-scan-findings",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-scan-findings.html"
+    },
+    {
+        "title": "describe-images",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-images.html"
+    },
+    {
+        "title": "describe-pull-through-cache-rules",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-pull-through-cache-rules.html"
+    },
+    {
+        "title": "describe-registry",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-registry.html"
+    },
+    {
+        "title": "describe-repositories",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repositories.html"
+    },
+    {
+        "title": "describe-repository-creation-templates",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repository-creation-templates.html"
+    },
+    {
+        "title": "get-account-setting",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-account-setting.html"
+    },
+    {
+        "title": "get-authorization-token",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-authorization-token.html"
+    },
+    {
+        "title": "get-download-url-for-layer",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-download-url-for-layer.html"
+    },
+    {
+        "title": "get-lifecycle-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-lifecycle-policy.html"
+    },
+    {
+        "title": "get-lifecycle-policy-preview",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-lifecycle-policy-preview.html"
+    },
+    {
+        "title": "get-login-password",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-login-password.html"
+    },
+    {
+        "title": "get-registry-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-registry-policy.html"
+    },
+    {
+        "title": "get-registry-scanning-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-registry-scanning-configuration.html"
+    },
+    {
+        "title": "get-repository-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-repository-policy.html"
+    },
+    {
+        "title": "initiate-layer-upload",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/initiate-layer-upload.html"
+    },
+    {
+        "title": "list-images",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-images.html"
+    },
+    {
+        "title": "list-tags-for-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-tags-for-resource.html"
+    },
+    {
+        "title": "put-account-setting",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-account-setting.html"
+    },
+    {
+        "title": "put-image",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image.html"
+    },
+    {
+        "title": "put-image-scanning-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image-scanning-configuration.html"
+    },
+    {
+        "title": "put-image-tag-mutability",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image-tag-mutability.html"
+    },
+    {
+        "title": "put-lifecycle-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-lifecycle-policy.html"
+    },
+    {
+        "title": "put-registry-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-registry-policy.html"
+    },
+    {
+        "title": "put-registry-scanning-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-registry-scanning-configuration.html"
+    },
+    {
+        "title": "put-replication-configuration",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-replication-configuration.html"
+    },
+    {
+        "title": "set-repository-policy",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/set-repository-policy.html"
+    },
+    {
+        "title": "start-image-scan",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-image-scan.html"
+    },
+    {
+        "title": "start-lifecycle-policy-preview",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-lifecycle-policy-preview.html"
+    },
+    {
+        "title": "tag-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/tag-resource.html"
+    },
+    {
+        "title": "untag-resource",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/untag-resource.html"
+    },
+    {
+        "title": "update-pull-through-cache-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/update-pull-through-cache-rule.html"
+    },
+    {
+        "title": "update-repository-creation-template",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/update-repository-creation-template.html"
+    },
+    {
+        "title": "upload-layer-part",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/upload-layer-part.html"
+    },
+    {
+        "title": "validate-pull-through-cache-rule",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/validate-pull-through-cache-rule.html"
+    },
+    {
+        "title": "wait",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/wait/index.html"
+    }
+]

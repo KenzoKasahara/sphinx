@@ -1,0 +1,14 @@
+[
+    {
+        "title": "ecr",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/index.html"
+    },
+    {
+        "title": "ecr-public",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr-public/index.html"
+    },
+    {
+        "title": "secretsmanager",
+        "uri": "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/index.html"
+    }
+]
